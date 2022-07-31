@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @kunaljainwin
+- 👋 Hi, I’m @kunaljain
 - 👀 I’m interested in development
 - 🌱 I’m currently learning computer science
 - 💞️ I’m looking to collaborate on flutterFire
