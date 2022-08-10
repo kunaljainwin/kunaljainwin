@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @kunaljain
-- 👀 I’m interested in development
-- 🌱 I’m currently learning computer science
-- 💞️ I’m looking to collaborate on flutterFire
+- 👀 I’m interested in everything
+- 🌱 I’m currently learning deep learning
+- 💞️ I’m looking to collaborate on anything
 - 📫 How to reach me - [Email](mailto:rultimatrix@gmail), [Linkedin](https://www.linkedin.com/in/kunal-jain-32bbb418a/)
 <!---
 kunaljainwin/kunaljainwin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
