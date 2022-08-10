@@ -7,7 +7,7 @@
 
 # 💫 About Me :
 - 😄 Pronouns: He/His
-- - 📫 How to reach me: Check social links below.
+- 📫 How to reach me: Check social links below.
 - ⚡ Fun fact: I like to watch movies.
 - 👀 I’m interested in everything
 - 🌱 I’m currently learning deep learning
