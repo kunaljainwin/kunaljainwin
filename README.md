@@ -6,14 +6,10 @@
 
 
 # 💫 About Me :
-- 😄 Pronouns: He/His
 - 📫 How to reach me: Check social links below.
 - ⚡ Fun fact: I like to watch movies.
-- 👀 I’m interested in everything
-- 🌱 I’m currently learning many things
 - 💞️ I’m looking to collaborate on anything
 - 📫 How to reach me - [Email](mailto:rultimatrix@gmail)
-- 💬 Ask me about Flutter or any tech-related stuff.
 
 ## 🌐 Socials
  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/Kunal-Jain-junior)
@@ -47,7 +43,8 @@
 </p>
 
 ### ✍️Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=vue)
+<img align="center"  src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=vue">
+ <!-- <div align ="center">![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=vue)</div>-->
 
 [![@kunaljainwin's Holopin board](https://holopin.me/kunaljainwin)](https://holopin.io/@kunaljainwin)
 ---
