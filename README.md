@@ -1,6 +1,7 @@
 <h1 align="center"> Hola, I'm Kunal Jain<p align="left"> 
 
 
+[![@kunaljainwin's Holopin board](https://holopin.me/kunaljainwin)](https://holopin.io/@kunaljainwin)
 
 # 💫 About Me :
 - 🏠 I am currently in Final year
@@ -44,7 +45,6 @@
 <img align="center"  src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=vue">
  <!-- <div align ="center">![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=vue)</div>-->
 
-[![@kunaljainwin's Holopin board](https://holopin.me/kunaljainwin)](https://holopin.io/@kunaljainwin)
 ---
 [![](https://visitcount.itsvg.in/api?id=kunaljainwin&icon=0&color=1)](https://visitcount.itsvg.in)
 
