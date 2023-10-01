@@ -3,7 +3,7 @@
 
 [![@kunaljainwin's Holopin board](https://holopin.me/kunaljainwin)](https://holopin.io/@kunaljainwin)
 <a href="https://cloud.appwrite.io/card/6451412c7a038e431641">
-	<img width="350" src="https://cloud.appwrite.io/v1/cards/cloud?userId=6451412c7a038e431641" alt="Appwrite Cloud Card" />
+
 </a>
 # 💫 About Me :
 - 🏠 I am currently in Final year
