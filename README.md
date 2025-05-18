@@ -1,11 +1,8 @@
 <h1 align="center"> Hola, I'm Kunal Jain<p align="left"> 
 
 
-[![@kunaljainwin's Holopin board](https://holopin.me/kunaljainwin)](https://holopin.io/@kunaljainwin)
-<a href="https://cloud.appwrite.io/card/6451412c7a038e431641">
-
 # 💫 About :
-- 🏠 I have completed my graduation and working for 63moons pvt. ltd. we make Trading softwares for Brokers.
+- 🏠 I have completed my graduation and working for 63moons pvt. ltd from 2 years. we make Trading softwares for Brokers.I work as a Devloper cum R&D Engineer.
 - 📫 How to reach me [Send Email](mailto:kunaljainwin@gmail)
 - ⚡ Fun fact: Softwares are build as per requirements.
 - 💞️ I’m looking to collaborate.
